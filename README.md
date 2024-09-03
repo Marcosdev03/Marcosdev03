@@ -4,9 +4,9 @@
 ![Marcosdev03 Github status](https://github-readme-stats.vercel.app/api?username=Marcosdev03&show_icons=true&theme=dracula)
 
 ### Tecnologias que eu uso no meu dia a dia.
-<div style="display: flex; gap: 10px;">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="border: none;" />
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio Code" style="border: none;" />
-</div><br/>
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
 
 "O sucesso é a soma de pequenos esforços, repetidos dia após dia."
