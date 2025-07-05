@@ -74,8 +74,18 @@ class QAEngineer:
 ## 📊 **GitHub Stats**
 
 <div align="center">
-  <img height="200" width="420" src="https://github-readme-stats.vercel.app/api?username=marcosdev03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
-  <img height="200" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=marcosdev03&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=58a6ff&currStreakLabel=c9d1d9" />
+  <table>
+    <tr>
+      <!-- Gráfico 1: GitHub Stats -->
+      <td>
+        <img height="195" src="https://github-readme-stats.vercel.app/api?username=marcosdev03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
+      </td>
+      <!-- Gráfico 2: Streak Stats -->
+      <td>
+        <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=marcosdev03&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=58a6ff&currStreakLabel=c9d1d9" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 🏆 **Skills Matrix**
