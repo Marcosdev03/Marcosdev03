@@ -74,7 +74,7 @@ class QAEngineer:
 ## 📊 **GitHub Stats**
 
 <div align="center">
-  <table>
+  <table border="0">
     <tr>
       <!-- Gráfico 1: GitHub Stats -->
       <td>
@@ -87,7 +87,7 @@ class QAEngineer:
     </tr>
   </table>
 </div>
-</div>
+
 
 ## 🏆 **Skills Matrix**
 
