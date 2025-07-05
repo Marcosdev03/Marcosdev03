@@ -117,11 +117,11 @@ const developer = {
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                              ║
-║  "Quality is never an accident; it is always the result of intelligent      ║
-║   effort, rigorous testing, and continuous improvement."                    ║
+║  "Quality is never an accident; it is always the result of intelligent       ║
+║   effort, rigorous testing, and continuous improvement."                     ║
 ║                                                                              ║
-║  💡 Every bug prevented is a user experience enhanced                       ║
-║  🚀 Automation today, innovation tomorrow                                   ║
+║  💡 Every bug prevented is a user experience enhanced                        ║
+║  🚀 Automation today, innovation tomorrow                                    ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
