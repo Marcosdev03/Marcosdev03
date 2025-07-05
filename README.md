@@ -87,6 +87,7 @@ class QAEngineer:
     </tr>
   </table>
 </div>
+</div>
 
 ## 🏆 **Skills Matrix**
 
