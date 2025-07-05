@@ -1,59 +1,82 @@
-<!--
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║              ███╗   ███╗ █████╗ ██████╗  ██████╗ ███████╗         ║
-║              ████╗ ████║██╔══██╗██╔══██╗██╔═══██╗██╔════╝         ║
-║              ██╔████╔██║███████║██████╔╝██║   ██║█████╗           ║
-║              ██║╚██╔╝██║██╔══██║██╔═══╝ ██║   ██║██╔══╝           ║
-║              ██║ ╚═╝ ██║██║  ██║██║     ╚██████╔╝███████╗         ║
-║              ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝      ╚═════╝ ╚══════╝         ║
-║                                                                  ║
-║    ██████╗  ██████╗  ██████╗ ██╗   ██╗███████╗██╗  ██╗            ║
-║    ██╔══██╗██╔═══██╗██╔═══██╗██║   ██║██╔════╝██║  ██║            ║
-║    ██████╔╝██║   ██║██║   ██║██║   ██║█████╗  ███████║            ║
-║    ██╔═══╝ ██║   ██║██║   ██║╚██╗ ██╔╝██╔══╝  ██╔══██║            ║
-║    ██║     ╚██████╔╝╚██████╔╝ ╚████╔╝ ███████╗██║  ██║            ║
-║    ╚═╝      ╚═════╝  ╚═════╝   ╚═══╝  ╚══════╝╚═╝  ╚═╝            ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
--->
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 
-<p align="center">
-  <img width="200" src="https://cdn-icons-png.flaticon.com/512/284/284777.png" alt="Cyberpunk Icon" />
-</p>
-
-<h1 align="center" style="color:#9c27b0; font-family: 'Fira Code', monospace;">
-  Marcos Paulo Alves de Freitas
-</h1>
-<h3 align="center" style="color:#00fff7; font-family: 'Fira Code', monospace;">
-  QA Engineer & Developer | São Paulo, Brazil
-</h3>
-
----
-
-## 🐍 About Me — *Python Code Representation*
-
-```python
-class MarcosDev:
+class QAEngineer:
     def __init__(self):
         self.name = "Marcos Paulo Alves de Freitas"
         self.role = "QA Engineer & Developer"
-        self.location = "São Paulo, Brazil"
-        self.skills = [
-            "Python (intermediate/advanced)",
-            "Robot Framework (automated testing)",
-            "Browser Library, RequestsLibrary, JSONLibrary",
-            "Linux, AWS, Git, Docker",
-            "Security, Databases (SQL/NoSQL)",
-            "CI/CD pipelines",
-            "Jira, Confluence"
-        ]
-        self.mission = "Deliver high-impact, reliable automation and DevOps solutions."
+        self.location = "São Paulo, BR"
+        self.stack = {
+            "languages": ["Python", "JavaScript", "C++"],
+            "testing": ["Robot Framework", "Selenium", "Postman"],
+            "devops": ["Docker", "CI/CD", "Git/GitHub"],
+            "cloud": ["Google Cloud"],
+            "os": ["Ubuntu", "Windows/WSL2"]
+        }
+    
+    def __str__(self):
+        return f"{self.name} | {self.role}"
 
-    def introduce(self):
-        print(f"Hi! I'm {self.name}, a {self.role} from {self.location}.\n")
-        print("I build and maintain automated test suites and scalable DevOps pipelines.")
-        print("Always learning, always evolving. 🚀")
+me = QAEngineer()
+print(me)
 
-me = MarcosDev()
-me.introduce()
++---------------------+---------------------+---------------------+
+|  LANGUAGES          |  TESTING            |  DEVOPS             |
++---------------------+---------------------+---------------------+
+|  🐍 Python          |  🤖 Robot Framework |  🐳 Docker          |
+|  📜 JavaScript      |  🌐 Selenium        |  🔄 CI/CD           |
+|  ⚙️ C++            |  📯 Postman         |  🗃️ Git/GitHub      |
++---------------------+---------------------+---------------------+
+|  CLOUD              |  OS                 |  TOOLS              |
++---------------------+---------------------+---------------------+
+|  ☁️ Google Cloud   |  🐧 Ubuntu          |  � Jira            |
+|                     |  ⊞ Win/WSL2         |  🗒️ Confluence      |
+|                     |                     |  🔧 VSCode          |
++---------------------+---------------------+---------------------+
+
+
+// Mission Objectives 2024
+const goals = {
+  primary: "Master Test Automation Architecture",
+  secondary: [
+    "Expand Python expertise to Advanced Level",
+    "Implement CI/CD pipelines in 3+ projects",
+    "Contribute to Open Source QA Tools"
+  ],
+  deadline: "Q4 2024"
+};
+
+function achieveGoals() {
+  while(!success) {
+    learn();
+    practice();
+    implement();
+  }
+}
+
+
+╔════════════════════════════════════════════╗
+║                                            ║
+║   "Debugging is like being the detective   ║
+║    in a crime movie where you're also      ║
+║    the murderer." - Filipe Fernandes       ║
+║                                            ║
+╚════════════════════════════════════════════╝
+
+
+          _____
+        .'     '.
+       /  o   o  \
+      |    ∆    |    ╔════════════════════════════╗
+       \   ⌃   /     ║                            ║
+        '.___.'      ║  "Code never lies,        ║
+         |░░|       ║   comments sometimes do." ║
+         |░░|       ║            - Ron Jeffries  ║
+         |░░|       ║                            ║
+        /=====\     ╚════════════════════════════╝
+
+
+# Legend:
++ Active: Currently improving these skills
+! Focus: Main professional focus
+- Archived: Not currently using
