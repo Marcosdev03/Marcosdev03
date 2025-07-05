@@ -50,9 +50,9 @@ class QAEngineer:
     def __init__(self):
         self.name = "Marcos Paulo Alves de Freitas"
         self.role = "QA Engineer & Developer"
-        self.location = "São Paulo, Brasil 🇧🇷"
+        self.location = "Minas Gerais, Brasil 🇧🇷"
         self.current_focus = "Test Automation & Quality Assurance"
-        self.languages = ["Python", "JavaScript", "C++"]
+        self.languages = ["Python", "JavaScript", "C#"]
         
     def get_skills(self):
         return {
