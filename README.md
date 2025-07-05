@@ -103,7 +103,7 @@ class QAEngineer:
 const developer = {
     currentlyLearning: ["Advanced Test Automation", "Cloud Architecture", "AI Testing"],
     workingOn: ["Automated Testing Frameworks", "DevOps Pipelines", "Quality Dashboards"],
-    goals: ["Senior QA Engineer", "Test Architect", "DevOps Expert"],
+    goals: ["QA Engineer", "Test Architect", "DevOps Expert"],
     funFact: "I love turning manual processes into automated masterpieces! 🚀"
 };
 ```
