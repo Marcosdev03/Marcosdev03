@@ -72,11 +72,21 @@ class QAEngineer:
 <div align="center">
 
 ## 📊 **GitHub Stats**
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=marcosdev03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" width="420px" height="200px">
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcosdev03&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=58a6ff&currStreakLabel=c9d1d9" width="420px" height="200px">
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <img style="margin: 0 !important; padding: 0 !important; border: 0 !important;" height="195" src="https://github-readme-stats.vercel.app/api?username=marcosdev03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
-  <img style="margin: 0 !important; padding: 0 !important; border: 0 !important;" height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=marcosdev03&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=58a6ff&currStreakLabel=c9d1d9" />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marcosdev03&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=c9d1d9" width="860px">
+</p>
+
 
 ## 🏆 **Skills Matrix**
 
