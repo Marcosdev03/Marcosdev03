@@ -55,7 +55,7 @@ class QAEngineer:
         self.role = "QA Engineer & Developer"
         self.location = "Minas Gerais, Brasil 🇧🇷"
         self.current_focus = "Test Automation & Quality Assurance"
-        self.languages = ["Python", "JavaScript", "C#"]
+        self.languages = ["Python", "JavaScript", "Java"]
         
     def get_skills(self):
         return {
