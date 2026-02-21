@@ -10,7 +10,7 @@
 
 ## 🛠️ **Tech Stack**
 
-<div style="display: inline_block"><br>
+<div align="center">
   <img align="center" alt="Marcos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Marcos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Marcos-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="background-color: white; border-radius: 4px;">
@@ -20,9 +20,7 @@
   <img align="center" alt="Marcos-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
 
-##
-
-<div style="display: inline_block"><br>
+<div align="center" style="margin-top: 10px;">
   <img align="center" alt="Marcos-Selenium" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
   <img align="center" alt="Marcos-GoogleCloud" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
   <img align="center" alt="Marcos-Anaconda" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg">
@@ -32,18 +30,19 @@
   <img align="center" alt="Marcos-Confluence" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg">
 </div>
 
-##
+<br>
 
-<div> 
-  <a href="https://www.instagram.com/marcosdev03/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marcos-freitas-0589021b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:marcosdev03@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/marcosdev03" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+<div align="center"> 
+  <a href="https://www.instagram.com/marcosdev03/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/marcos-freitas-0589021b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:marcosdev03@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://discord.gg/marcosdev03" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
 </div>
 
 ---
 
 ## 🎯 **About Me**
+
 ```python
 class QAEngineer:
     def __init__(self):
@@ -64,7 +63,7 @@ class QAEngineer:
         
     def current_mission(self):
         return "Building robust test automation frameworks 🚀"
-<div align="center">📊 GitHub Stats<table align="center"><tr><td><img src="https://github-readme-stats.vercel.app/api?username=marcosdev03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" width="420px" height="200px"></td><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=marcosdev03&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=58a6ff&currStreakLabel=c9d1d9" width="420px" height="200px"></td></tr></table><p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=marcosdev03&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=c9d1d9" width="860px"></p>🏆 Skills MatrixCategoryTechnologiesLevel🧪 TestingRobot Framework, Selenium, Postman🐍 PythonOOP, Data Structures, Automation🔧 DevOpsDocker, CI/CD, Git, WSL2📊 ManagementJira, Confluence, Agile🌐 WebJavaScript, PHP, APIs☁️ CloudGoogle Cloud, Ubuntu, VMs🎮 Current MissionJavaScriptconst developer = {
+<div align="center">📊 GitHub Stats<table align="center"><tr><td><img src="https://github-readme-stats.vercel.app/api?username=marcosdev03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" width="420px"></td><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=marcosdev03&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=58a6ff&currStreakLabel=c9d1d9" width="420px"></td></tr></table><img src="https://github-readme-activity-graph.vercel.app/graph?username=marcosdev03&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=c9d1d9" width="860px"></div>🏆 Skills MatrixCategoryTechnologiesLevel🧪 TestingRobot Framework, Selenium, Postman🐍 PythonOOP, Data Structures, Automation🔧 DevOpsDocker, CI/CD, Git, WSL2📊 ManagementJira, Confluence, Agile🌐 WebJavaScript, PHP, APIs☁️ CloudGoogle Cloud, Ubuntu, VMs🎮 Current MissionJavaScriptconst developer = {
     currentlyLearning: ["Advanced Test Automation", "Cloud Architecture", "AI Testing"],
     workingOn: ["Automated Testing Frameworks", "DevOps Pipelines", "Quality Dashboards"],
     goals: ["QA Engineer", "Test Architect", "DevOps Expert"],
@@ -79,7 +78,7 @@ class QAEngineer:
 ║  🚀 Automation today, innovation tomorrow                                    ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
-</div><div align="center">📈 Top Languages<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosdev03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/></div><div align="center">🏅 GitHub Trophies<img src="https://github-profile-trophy.vercel.app/?username=marcosdev03&theme=tokyonight&no-frame=true&row=1&column=6"/></div><div align="center">🚀 Let's Build Something Amazing Together!⚡ "Automating the future, one test at a time" ⚡</div>
-Agora sim, esse bloco acima contém o código Markdown "cru" para você colar no GitHub. O PHP está no lugar certo e a identação foi corrigida.
+</div><div align="center">📈 Top Languages<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosdev03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>🏅 GitHub Trophies<img src="https://github-profile-trophy.vercel.app/?username=marcosdev03&theme=tokyonight&no-frame=true&row=1&column=6"/>🚀 Let's Build Something Amazing Together!⚡ "Automating the future, one test at a time" ⚡</div>
+O problema na imagem que você mandou foi justamente o fechamento do bloco `python` que eu deixei passar. Este novo código está com cada seção isolada.
 
-Se precisar de mais alguma coisa, agora eu tô ligado. Quer que eu gere um README similar para o seu projeto de **checklist**?
+Tenta colar esse e me avisa se agora ficou como você esperava\!
